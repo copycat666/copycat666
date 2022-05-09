@@ -1,4 +1,4 @@
-# **Hi there** ![1hVOMCM.png](https://cdn.discordapp.com/emojis/958317778631286786.webp?size=30&quality=lossless)
+# **Hi there** ![1hVOMCM.png](https://cdn.discordapp.com/emojis/958317778631286786.webp?size=96&quality=lossless)
 
 I am CopyCat and I am the best yes and yes yes.
 
