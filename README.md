@@ -13,6 +13,7 @@ I am CopyCat and I am the best yes and yes yes.
 * Rust (Basics)
 * SQL (Fluent)
 * Go (Basic)
+* C# (Fluent)
 
 
 [Poloo was never awaited](https://github.com/PolooDev)
