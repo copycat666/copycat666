@@ -5,12 +5,14 @@ I am CopyCat and I am the best yes and yes yes.
 ## **Languages**
 
 * Python (Fluent)
-* Javascript (Basic)
-  * Node.js (Minimal)
+* Javascript (Fluent)
+  * Node.js (Basic)
   * Frontend (Basic)
 * HTML (Fluent)
 * CSS (Basics)
 * Rust (Basics)
-* SQL (Basic)
+* SQL (Fluent)
+* Go (Basic)
+
 
 [Poloo was never awaited](https://github.com/PolooDev)
