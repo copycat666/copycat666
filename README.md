@@ -7,7 +7,7 @@ I am CopyCat and I am the best yes and yes yes.
 * Python (Fluent)
 * Javascript (Fluent)
   * Node.js (Basic)
-  * Frontend (Basic)
+  * Frontend (Fluent)
 * HTML (Fluent)
 * CSS (Basics)
 * Rust (Basics)
