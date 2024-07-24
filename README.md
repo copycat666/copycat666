@@ -18,6 +18,3 @@ I am CopyCat and I am the best yes and yes yes.
 * SQL (Fluent)
 * Go (Basic)
 * C# (Fluent)
-
-
-[Poloo was never awaited](https://github.com/PolooDev)
