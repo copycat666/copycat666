@@ -15,26 +15,23 @@ I break things so you don't have to – and then I fix them better. 🛠️🐾
 - 📚 Currently diving deeper into **Rust** and **Go**
 
 ---
-
 ## 🛠️ Languages & Tools
 
-```yaml
-Languages:
-  - Python        # fluent
-  - JavaScript    # fluent (Node & Frontend)
-  - SQL           # fluent
-  - C#            # fluent
-  - HTML & CSS    # solid basics
-  - Rust          # learning
-  - Go            # learning
+### 💬 Languages
+- 🐍 **Python** – Fluent  
+- ⚙️ **JavaScript** – Fluent (Node.js + Frontend)  
+- 💾 **SQL** – Fluent  
+- 🧠 **C#** – Fluent  
+- 🌐 **HTML & CSS** – Solid Basics  
+- 🦀 **Rust** – Learning  
+- 🐹 **Go** – Learning  
 
-Tools:
-  - Docker & Portainer
-  - Nuxt 3 & Tailwind CSS
-  - Nginx & Nginx Proxy Manager
-  - Git & GitHub
-  - Linux (Arch-based / CachyOS)
-```
+### 🧰 Tools & Technologies
+- 🐳 **Docker** & **Portainer**
+- 🌐 **Nuxt 3** & **Tailwind CSS**
+- 🔧 **Nginx** & **Nginx Proxy Manager**
+- 🧪 **Git** & **GitHub**
+- 🐧 **Linux** (Arch-based / CachyOS)
 
 ---
 
